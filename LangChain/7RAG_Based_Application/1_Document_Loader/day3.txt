@@ -1,0 +1,22 @@
+Go to administration(in the bottom left corner), then go to management, and then go to data import/restore
+Then, go to 'Import from Self-Contained File', import the file, and proceed to the 'Default Target Schema' where you can name it. Next, navigate to 'Import Progress' and start the import. Finally, return to 'Schemas' and refresh it.
+
+
+flashback process: to get the data back
+
+DDL: data definition language
+keywords: create, alter, rename, drop, modify, comment, truncate
+
+Changes will be made permanently in the database.
+
+
+
+steps for the project
+
+requirements gathering
+What are the things stored in the database
+and how frequently we are loading data into the table
+
+In data, there must be columns, and without column names, there will not be any structure.
+
+Before assigning the datatype always confirm with the client
