@@ -41,3 +41,5 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Exclude embedded git repositories
