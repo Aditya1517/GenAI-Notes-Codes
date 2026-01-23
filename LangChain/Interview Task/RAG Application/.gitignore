@@ -1,0 +1,44 @@
+# Virtual environments
+.venv/
+.venv_fixed/
+.venvnew/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+
+# Temporary files
+temp_*/
+*.tmp
+
+# Database files
+*.db
+*.sqlite3
+
+# Vector database files
+faiss_index/
+volumes/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Chat sessions
+chat_sessions/

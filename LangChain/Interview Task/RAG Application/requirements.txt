@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+pandas
+plotly
+google-generativeai
+langchain
+langchain_google_genai
+langchain_community
+langchain_core
+langchain_text_splitters
+faiss-cpu
+pypdf
+pymilvus
+protobuf
